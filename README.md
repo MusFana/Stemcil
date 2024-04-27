@@ -1,2 +1,4 @@
-# Stemcil
-Chabot Hackathon Project
+Chabot Hacks Group
+- Mustafa
+- Osasu
+- Bilal
