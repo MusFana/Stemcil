@@ -18,6 +18,6 @@ and Mathamatics
 We all know the feeling when your professor skips over something important in a lecture, or doesnt even explain it. At Stemcil we dont waste anytime, we believe in
 getting you straight into the action, no more 30 minute rambles about how your professors morning went, no more "funny stories", no more nonesence. We hope you enjoy your time on our site and find it benefitial. Thank you for your time and consideration. 
 
-- Stemcil Team
+- From the Stemcil Team
 
 https://musfana.github.io/Stemcil/
