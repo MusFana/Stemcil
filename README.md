@@ -21,3 +21,8 @@ getting you straight into the action, no more 30 minute rambles about how your p
 - From the Stemcil Team
 
 https://musfana.github.io/Stemcil/
+
+
+Initial website idea: (not main)
+
+https://www.figma.com/proto/sHtEftgTzx3DNePCyCmhQy/Chabot-Hackathon-Project?type=design&node-id=19-40&t=uFNdxSGp2tFdRphg-1&scaling=contain&page-id=0%3A1&mode=design
