@@ -5,7 +5,7 @@ Chabot Hacks Group
 
 Welcome to Stemcil where we outline your stem knowledge and raise it to higher places
 
-Our goal in this project was to help all class of people to learn Stem material without having to worry about paying for classes, textbooks, using gas, ect . . .
+Our goal in this project was to help all class of people to learn Stem material without having to worry about paying for classes, textbooks, using gas, etc . . .
 We believe that all knowledge shouldnt be kept from people and thats why at Stemcil we strive to provide the best of the best when it comes to free material that
 would normally cost you thousands at a community college or a university.
 
