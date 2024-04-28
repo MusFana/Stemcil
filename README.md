@@ -2,6 +2,6 @@ Chabot Hacks Group
 - Mustafa
 - Osasu
 - Bilal
-- Music
+- Muzec
 
 https://musfana.github.io/Stemcil/
